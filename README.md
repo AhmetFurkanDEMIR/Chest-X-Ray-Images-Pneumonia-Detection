@@ -1,1 +1,1 @@
-# deneme
+# Chest X Ray Images Pneumonia Detection

@@ -34,12 +34,12 @@ model = load_model(args["model"])
 
 if model.predict(image) >=0.5:
 
-	label = "Hasta - Zaturre"
+	label = "Saglikli"
 	a = 100 * model.predict(image)[0][0]
 
 else:
 
-	label = "Saglikli"
+	label = "Hasta - Zaturre"
 	a = (1-model.predict(image)[0][0]) * 100
 
 proba = model.predict(image)

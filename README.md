@@ -1,4 +1,4 @@
-/github/v/release/keras-team/keras
+github/v/release/keras-team/keras
 
 # Chest X Ray Images Pneumonia Detection
 

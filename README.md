@@ -1,5 +1,5 @@
 
-![licence](https://img.shields.io/badge/Licence-Keras-red)
+![licencejj](https://img.shields.io/badge/Licence-Keras-red)
 
 # Chest X Ray Images Pneumonia Detection
 

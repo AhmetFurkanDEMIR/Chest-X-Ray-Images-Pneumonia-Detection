@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/Licence/https://github.com/keras-team/keras
+
 
 # Chest X Ray Images Pneumonia Detection
 

@@ -1,5 +1,6 @@
 
 ![licence](https://img.shields.io/badge/Keras-V2.3.1-red)
+![licence](https://img.shields.io/badge/Tensorflow-V2.0-yellow)
 
 # Chest X Ray Images Pneumonia Detection
 
